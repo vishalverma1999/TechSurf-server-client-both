@@ -90,6 +90,8 @@ if done save as copy then iamge will be save to db:-
 ![image](https://github.com/vishalverma1999/TechSurf-server-client-both/assets/56078981/bb6b60ef-6aec-422b-85d3-1f050d79d99f)
 ## This is the result after cropping
 ![image](https://github.com/vishalverma1999/TechSurf-server-client-both/assets/56078981/5833b279-59b4-4076-9d14-adadd05a1b51)
+## Compressed Images stored in db in the base64 format
+![image](https://github.com/vishalverma1999/TechSurf-server-client-both/assets/56078981/9188cb39-ae4c-461d-95e9-d4f9a81d6e2c)
 
 
 

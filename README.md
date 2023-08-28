@@ -1,4 +1,12 @@
-# TechSurf-server-client-both
+# TechSurf-server-client-both 
+# I have attached google drive link for the live demo of the project and also uploaded the vision api json file to test the project. You can Download the json file from the gdrive link attached below.
+<h1>
+  <a href="https://drive.google.com/file/d/1QhQBSxVVHYuiRm0QTkuZn5KI8AunYeF2/view?usp=sharing">Live Demo</a>
+</h1>
+
+<h1>
+  <a href="https://drive.google.com/file/d/1KCe7MSiobIdE1_7Vdo6aXioy144xUywH/view?usp=sharing">API JSON FILE</a>
+</h1>
 
 This project is developed as task to complete the round 3- prototype submission of the hackathon named as Techsurf. Shortlisted candidates have to submit their prototypes based on the problem statement.
 problem statement-1(mine): -
@@ -95,7 +103,7 @@ if done save as copy then iamge will be save to db:-
 
 
 
-## TO DO IN FURURE:-
+## TO DO IN FUTURE:-
 1) Display the edited images saved in db to the frontend. Images will load faster since they are first compressed and then stored
 2) applying compression at frontend side also to further enhance the performance .
 3) Metadata--> it can be done through the sharp library only. metadata method parses all the metadata associated with the image.

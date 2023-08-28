@@ -73,10 +73,10 @@ Download button in cropper component to download the image.
 ![image](https://github.com/vishalverma1999/TechSurf-server-client-both/assets/56078981/5a462ef5-98d3-4598-9635-e9b591c16e32)
 ![image](https://github.com/vishalverma1999/TechSurf-server-client-both/assets/56078981/ddf10e8a-a175-4bca-880b-08396be24c6b)
 ![image](https://github.com/vishalverma1999/TechSurf-server-client-both/assets/56078981/cdacfb0c-c426-42fb-9b7b-0b7353226ef4)
-Play with effects, rotate, brightness etc.
+## Play with effects, rotate, brightness etc.
 ![image](https://github.com/vishalverma1999/TechSurf-server-client-both/assets/56078981/9260a5f7-7c16-4b1d-aa77-c8acb12adcf0)
 
-export button - download or save as copy
+## export button - download or save as copy
 if done save as copy then iamge will be save to db:- 
 ![image](https://github.com/vishalverma1999/TechSurf-server-client-both/assets/56078981/52ce0d7c-9108-4bb6-9abf-e4b664b5191b)
 ![image](https://github.com/vishalverma1999/TechSurf-server-client-both/assets/56078981/d005c984-013e-4e47-b69e-000f99385221)
@@ -101,3 +101,4 @@ if done save as copy then iamge will be save to db:-
 3) Metadata--> it can be done through the sharp library only. metadata method parses all the metadata associated with the image.
 4) Use this metadata to filter and sort the images displaying at frontend side.
 5) Functionality to store Multiple versions of the same file.
+6) Remaining image editing tasks like overlay, frames, focal point etc.
